@@ -1,0 +1,10 @@
+name: Calls
+form: $/smony/feedback/models/calls/fields.yaml
+modelClass: Smony\Feedback\Models\Calls
+defaultRedirect: smony/feedback/calls
+create:
+    redirect: 'smony/feedback/calls/update/:id'
+    redirectClose: smony/feedback/calls
+update:
+    redirect: smony/feedback/calls
+    redirectClose: smony/feedback/calls

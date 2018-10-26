@@ -1,0 +1,4 @@
+title: Calls
+modelClass: Smony\Feedback\Models\Calls
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table smony_feedback_calls'
+    - builder_table_create_smony_feedback_calls.php
+1.0.3:
+    - 'Updated table smony_feedback_calls'
+    - builder_table_update_smony_feedback_calls.php

@@ -1,0 +1,16 @@
+fields:
+    phone:
+        label: Телефон
+        span: auto
+        type: text
+    active:
+        label: Обработано
+        span: auto
+        attributes:
+            - 'Не обработано'
+            - Обработано
+        type: switch
+    name:
+        label: Имя
+        span: auto
+        type: text

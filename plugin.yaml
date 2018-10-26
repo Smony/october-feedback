@@ -1,0 +1,11 @@
+plugin:
+    name: 'smony.feedback::lang.plugin.name'
+    description: 'smony.feedback::lang.plugin.description'
+    author: smony
+    icon: oc-icon-anchor
+    homepage: ''
+navigation:
+    Calls:
+        label: 'Заказы звонков'
+        url: smony/feedback/calls
+        icon: icon-phone-square

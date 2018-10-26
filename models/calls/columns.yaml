@@ -1,0 +1,20 @@
+columns:
+    id:
+        label: id
+        type: number
+        sortable: true
+    phone:
+        label: Телефон
+        type: partial
+        searchable: true
+    ip:
+        label: 'ip адрес'
+        type: text
+    active:
+        label: Обработка
+        type: partial
+        sortable: true
+    name:
+        label: Имя
+        type: text
+        searchable: false
